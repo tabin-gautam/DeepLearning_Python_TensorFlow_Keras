@@ -1,4 +1,5 @@
 ======================
+
 STEP 1: INSTALL DEPENDENCIES
 ======================
 
@@ -12,6 +13,7 @@ Why: These libraries handle data processing, model building, hyperparameter tuni
 ------------------------------------------------------
 
 ======================
+
 STEP 2: IMPORT LIBRARIES
 ======================
 
@@ -38,6 +40,7 @@ Why: Each library has a role:
 ------------------------------------------------------
 
 ======================
+
 STEP 3: LOAD & INSPECT DATA
 ======================
 
@@ -56,6 +59,7 @@ Why: Ensures your dataset is ready for preprocessing and checks for missing valu
 ------------------------------------------------------
 
 ======================
+
 STEP 4: PREPROCESS DATA
 ======================
 
@@ -82,6 +86,7 @@ Why: Neural networks require numeric, scaled features and integer labels for mul
 ------------------------------------------------------
 
 ======================
+
 STEP 5: BUILD NEURAL NETWORK
 ======================
 
@@ -108,6 +113,7 @@ Why: Configures the neural network for multiclass classification and efficient l
 ------------------------------------------------------
 
 ======================
+
 STEP 6: HYPERPARAMETER SEARCH & TRAINING
 ======================
 
@@ -121,6 +127,7 @@ Why: Saves time and optimizes network performance without manually guessing hidd
 ------------------------------------------------------
 
 ======================
+
 STEP 7: EVALUATE MODEL
 ======================
 
@@ -139,6 +146,7 @@ Why: Confirms model quality and provides visual insights.
 ------------------------------------------------------
 
 ======================
+
 STEP 8: RUN FULL PIPELINE
 ======================
 
